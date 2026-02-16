@@ -271,7 +271,7 @@ form button{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;;
+    align-items: center;
 }
 .article_card:hover{
     box-shadow: 4px 6px 13px 0 #D7D7D740;
